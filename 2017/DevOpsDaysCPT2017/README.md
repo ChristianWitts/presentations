@@ -5,7 +5,7 @@
 | Event        | [DevOpsDays Cape Town](https://www.devopsdays.org/events/2017-cape-town/program/) |
 | Talk Type    | Keynote                                                                           |
 | Speaker Info | [Bio](https://www.devopsdays.org/events/2017-cape-town/program/christian-witts/)  |
-| Slides       | [PDF](The CAP Theorem of Humans.pdf)                                              |
+| Slides       | [PDF](The%20CAP%20Theorem%20of%20Humans.pdf)                                      |
 | Speakerdeck  | [Speakerdeck](https://speakerdeck.com/christianwitts/the-cap-theorem-of-humans)   |
 | Slideshare   | [Slideshare](https://www.slideshare.net/ChristianWitts/the-cap-theorem-of-humans) |
 | Video        |                                                                                   |
